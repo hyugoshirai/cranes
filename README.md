@@ -20,6 +20,6 @@ Once you have all the packages installed, simply run these lines in the RStudio 
 ```{r}
 
 library(shiny)
-runGitHub(rep = "cranes", username = "lsw5077", ref = "main")
+runGitHub(rep = "cranes", username = "hyugoshirai", ref = "main")
 
 ```
