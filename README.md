@@ -4,7 +4,7 @@
 
 This app displays variation in sandhill crane distribution over seasons and years. If you wish to view the app online, it is accessible here:
   
-  https://pheasant.shinyapps.io/craneGame/
+  https://vfylk0-henrique-shirai.shinyapps.io/craneGame/
   
   If you would like to download the code and work with it in R, check out [this link.](https://drive.google.com/drive/folders/1Quq8jMe42JD-6L2XY4xC3P1bcjvCtGGq?usp=sharing) 
 
